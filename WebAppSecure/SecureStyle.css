@@ -1,0 +1,26 @@
+﻿body {
+    background-color:lightgoldenrodyellow;
+}
+h1,h2{
+    text-align:center;
+}
+.topPanel{
+    position:absolute;
+    left:2%;
+    right:2%;
+    top:2%;
+    width:96%;
+    height:20%;
+    background-color:beige;
+    color:darkblue;
+}
+.mainPanel {
+    position: absolute;
+    left: 2%;
+    right: 2%;
+    top: 24%;
+    width: 96%;
+    height: 75%;
+    background-color: mintcream;
+    color: darkblue;
+}
